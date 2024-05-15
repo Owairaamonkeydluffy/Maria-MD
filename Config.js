@@ -12,11 +12,7 @@ global.location = "Indian"
 global.botname = process.env.BOTNAME || "LUFFY-MD",//name of the bot
 
 //sticker details
-global.stickername = process.env.STICKER || "ᴊɪᴍᴍʏʏʜ 💭🌷
-
-愛してます🍯🤍
-
-「+𝟿𝟷𝟿𝟼𝟹𝟹𝟷𝟷𝟿𝟸𝟸𝟶」",
+global.stickername = process.env.STICKER || "ᴊɪᴍᴍʏʏʜ",
 global.packname = 'Sticker By'
 global.author = process.env.AUTHOR || "💙𓆩‎✘ᴊɪᴍᴍʏʏʜ✘𓆪_✰",
 //console view/theme
